@@ -2029,7 +2029,7 @@
     (uuid 47d61bda-e1d0-4382-b01d-06c237dc658e)
     (property "Reference" "J1" (id 0) (at 13.335 39.37 90))
     (property "Value" "Conn_01x20" (id 1) (at 15.875 39.37 90))
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical" (id 2) (at 19.685 39.37 0)
+    (property "Footprint" "Connector_Molex:Molex_Micro-Fit_3.0_43045-2010_2x10-1MP_P3.00mm_Horizontal" (id 2) (at 19.685 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 19.685 39.37 0)
@@ -3219,7 +3219,7 @@
       (reference "IC1") (unit 1) (value "LM5155DSSR") (footprint "SON50P200X300X80-13N-D")
     )
     (path "/47d61bda-e1d0-4382-b01d-06c237dc658e"
-      (reference "J1") (unit 1) (value "Conn_01x20") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical")
+      (reference "J1") (unit 1) (value "Conn_01x20") (footprint "Connector_Molex:Molex_Micro-Fit_3.0_43045-2010_2x10-1MP_P3.00mm_Horizontal")
     )
     (path "/253d4602-5d1f-477f-8c18-29c7efc6e641"
       (reference "J2") (unit 1) (value "09551296822741") (footprint "09551296822741")
