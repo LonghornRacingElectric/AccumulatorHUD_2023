@@ -3511,7 +3511,7 @@
       (reference "J7") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/5d541599-4ee1-4471-9115-5e860db7c397/00000000-0000-0000-0000-0000634eba8b"
-      (reference "J8") (unit 1) (value "SWD") (footprint "Connector_PinHeader_1.27mm:PinHeader_2x03_P1.27mm_Vertical")
+      (reference "J8") (unit 1) (value "SWD") (footprint "Connector:Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical")
     )
     (path "/4116695a-f300-4723-803c-f02291224f59"
       (reference "JP1") (unit 1) (value " ") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm")
